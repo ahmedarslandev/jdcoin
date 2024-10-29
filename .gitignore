@@ -1,0 +1,4 @@
+runVoteBot.bat
+runVoteBot.sh
+node_modules
+.env
